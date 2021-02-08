@@ -1,8 +1,14 @@
 # HASHTABLE-IMPLEMENTATION
 Hashtable Implementation using linear probing
+course intructor: Dr. Qasim Pasta
+lab instructor: Ms. Asma Mala Idrees
+project members:
+Neha Khan 
+Laiba Usman
 
 HASHTABLE 
 Hashtable is basically a data structure that stores key-value pairs and the place of storage is calculated using the key and a hash function. It is implementation of MAP ADT.
+
 Functions used in HASHTABLE:
 class HashTable:
 def __hashed(self, k):
